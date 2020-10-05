@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AVS1.dir/main.cpp.o  -o AVS1 

@@ -1,0 +1,3 @@
+/home/alex/CLionProjects/AVS1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alex/CLionProjects/AVS1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex/CLionProjects/AVS1/cmake-build-debug/CMakeFiles/AVS1.dir
